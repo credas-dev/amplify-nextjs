@@ -1,0 +1,15 @@
+{
+  "name": "myapp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@create-next-app/core": "^1.0.1",
+    "create-next-app": "^11.1.4"
+  }
+}
